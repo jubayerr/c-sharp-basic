@@ -1,10 +1,13 @@
 using System.IO;
 using System;
 
-class Program
+namespace MyApp
+{
+    class Program
 {
     static void Main()
     {
         Console.WriteLine("Hello, World!");
     }
+}
 }
